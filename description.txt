@@ -1,0 +1,7 @@
+I kept my website clean and simple with a dark header and footer, a light background, and centered text. I used Arial for the font and removed extra margins and padding to keep things neat.
+
+The header and navigation have a dark gray background with white text. My menu links are spaced out and underline when hovered. In the main section, I added some padding and centered everything. My images resize well and have rounded corners for a softer look.
+
+The footer stays at the bottom with a dark background, white text, and my contact info in the center. All my links are orange and underline when hovered.
+
+For content, I focused on my move to NYC, my background, and my new job at PwC. The "About Me" page lists my action steps for moving, while the homepage talks about my excitement for the city, fitness, and work. I also included images—one of Manhattan and one of the PwC logo.
