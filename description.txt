@@ -1,3 +1,5 @@
+bstunney.github.io
+
 I kept my website clean and simple with a dark header and footer, a light background, and centered text. I used Arial for the font and removed extra margins and padding to keep things neat.
 
 The header and navigation have a dark gray background with white text. My menu links are spaced out and underline when hovered. In the main section, I added some padding and centered everything. My images resize well and have rounded corners for a softer look.
